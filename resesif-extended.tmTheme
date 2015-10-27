@@ -26,7 +26,7 @@
 	<key>name</key>
 	<string>Resesif Extended</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai_extended</string>
+	<string>theme.dark.resesif_extended</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -230,8 +230,6 @@
 				<string>#E16C5B</string>
 				<key>background</key>
 				<string>#BE493C1A</string>
-				<key>fontStyle</key>
-				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
