@@ -32,6 +32,8 @@ To see the color scheme with different languages or with your custom code you ca
 
 ### JavaScript / Coffescript
 
+![javascript](https://cloud.githubusercontent.com/assets/7629661/10829353/b35334ae-7e79-11e5-91bb-37b3b1b7454f.png)
+
 ### HTML / Jade / Markdown / Haml
 
 ![tags](https://cloud.githubusercontent.com/assets/7629661/10798076/1037065c-7da6-11e5-95ff-2c938497d4b3.png)
@@ -44,7 +46,7 @@ To see the color scheme with different languages or with your custom code you ca
 
 ![backend](https://cloud.githubusercontent.com/assets/7629661/10799950/d37343ca-7daf-11e5-8037-34231d4a1667.png)
 
-Much more languages here [Resesif tmThemeEditor](http://tmtheme-editor.herokuapp.com/#!/editor/url/https://raw.githubusercontent.com/carloscuesta/resesif/master/resesif-extended.tmTheme) and test your own code!.
+Much more languages at [Resesif tmThemeEditor](http://tmtheme-editor.herokuapp.com/#!/editor/url/https://raw.githubusercontent.com/carloscuesta/resesif/master/resesif-extended.tmTheme) and test your own code!.
 
 ## License
 
