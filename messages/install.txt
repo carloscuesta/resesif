@@ -1,0 +1,19 @@
+Welcome to Resesif 👍!
+
+Resesif is a dark color scheme based on the Textmate Resesif for Sublime Text.
+
+To enable and use the color scheme, you will need to edit Preferences.sublime-settings,
+that can be accessed from Sublime Text > Preferences > Settings - User.
+
+Add/change the "color_scheme" line with:
+
+{
+    "color_scheme": "Packages/User/resesif-extended.tmTheme"
+}
+
+Save the file, restart your Sublime Text and you're ready to go!.
+
+The color scheme supports a lot of languages and different scopes, you can know more about
+Resesif at the github repository <https://github.com/carloscuesta/resesif>.
+
+You can find me on Twitter @crloscuesta and Github @carloscuesta.
