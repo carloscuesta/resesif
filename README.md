@@ -18,15 +18,15 @@ If you already have [Package Control](https://packagecontrol.io) installed in yo
 
 #### Manual
 
-Clone the repository using ```git clone https://github.com/carloscuesta/resesif.git``` and copy the ```resesif-extended.tmTheme``` to your ```~/Sublime Text 3/Packages/User``` folder.
+Clone the repository using ```git clone https://github.com/carloscuesta/resesif.git``` and copy the ```resesif.tmTheme``` to your ```~/Sublime Text 3/Packages/User``` folder.
 
 ### Use
 
-To activate the color scheme, go to ```Sublime Text > Preferences > Settings User```, and change/add a new line with the color scheme ```"color_scheme": "Packages/User/resesif-extended.tmTheme"``` and finally restart your Sublime Text.
+To activate the color scheme, go to ```Sublime Text > Preferences > Settings User```, and change/add a new line with the color scheme ```"color_scheme": "Packages/User/resesif.tmTheme"``` and finally restart your Sublime Text.
 
 ## Demo
 
-To see the color scheme with different languages or with your custom code you can see it at [Resesif tmThemeEditor](http://tmtheme-editor.herokuapp.com/#!/editor/url/https://raw.githubusercontent.com/carloscuesta/resesif/master/resesif-extended.tmTheme) app. Also you can edit the theme right there.
+To see the color scheme with different languages or with your custom code you can see it at [Resesif tmThemeEditor](http://tmtheme-editor.herokuapp.com/#!/editor/url/https://raw.githubusercontent.com/carloscuesta/resesif/master/resesif.tmTheme) app. Also you can edit the theme right there.
 
 ![resesiftmtheme](https://cloud.githubusercontent.com/assets/7629661/10793255/5d63da6a-7d90-11e5-8ed8-56bdd9e9c8b2.png)
 
@@ -46,7 +46,7 @@ To see the color scheme with different languages or with your custom code you ca
 
 ![backend](https://cloud.githubusercontent.com/assets/7629661/10799950/d37343ca-7daf-11e5-8037-34231d4a1667.png)
 
-Much more languages at [Resesif tmThemeEditor](http://tmtheme-editor.herokuapp.com/#!/editor/url/https://raw.githubusercontent.com/carloscuesta/resesif/master/resesif-extended.tmTheme) and test your own code!.
+Much more languages at [Resesif tmThemeEditor](http://tmtheme-editor.herokuapp.com/#!/editor/url/https://raw.githubusercontent.com/carloscuesta/resesif/master/resesif.tmTheme) and test your own code!.
 
 ## License
 
