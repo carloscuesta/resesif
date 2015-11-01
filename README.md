@@ -18,11 +18,25 @@ If you already have [Package Control](https://packagecontrol.io) installed in yo
 
 #### Manual
 
-Clone the repository using ```git clone https://github.com/carloscuesta/resesif.git``` and copy the ```resesif.tmTheme``` to your ```~/Sublime Text 3/Packages/User``` folder.
+Locate your Sublime Text `Packages directory` by using the menu item `Preferences > Browse Packages`.
+
+Clone the repository and activate the theme.
+
+```bash
+git clone https://github.com/carloscuesta/resesif.git
+```
 
 ### Use
 
-To activate the color scheme, go to ```Sublime Text > Preferences > Settings User```, and change/add a new line with the color scheme ```"color_scheme": "Packages/Resesif Color Scheme/resesif.tmTheme",``` and finally restart your Sublime Text. Or go to ```Sublime Text > Preferences > Color Scheme > Resesif Color Scheme > resesif```.
+To activate the color scheme, go to ```Sublime Text > Preferences > Settings User```, and change/add a new line with the color scheme:
+
+```json
+"color_scheme": "Packages/Resesif Color Scheme/resesif.tmTheme"
+```
+
+You can also activate the theme with the Sublime preferences menu item ```Sublime Text > Preferences > Color Scheme > Resesif Color Scheme > resesif```.
+
+Finally restart your Sublime Text. 
 
 ## Demo
 
