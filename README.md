@@ -12,9 +12,9 @@
 
 If you already have [Package Control](https://packagecontrol.io) installed in your Sublime Text:
 
-**OS X**: Hit ```⇧ ⌘ P``` to open the package control command palette > find the ```Package Control: Install Package``` option and type ```Resesif``` and hit ```⏎```.
+**OS X**: Hit ```⇧ ⌘ P``` to open the package control command palette > find the ```Package Control: Install Package``` option and type ```Resesif Color Scheme``` and hit ```⏎```.
 
-**Linux/Windows**: Hit ```⇧ Ctrl P``` to open the package control command palette > find the ```Package Control: Install Package``` option and type ```Resesif``` and hit ```⏎```
+**Linux/Windows**: Hit ```⇧ Ctrl P``` to open the package control command palette > find the ```Package Control: Install Package``` option and type ```Resesif Color Scheme``` and hit ```⏎```
 
 #### Manual
 
@@ -22,7 +22,7 @@ Clone the repository using ```git clone https://github.com/carloscuesta/resesif.
 
 ### Use
 
-To activate the color scheme, go to ```Sublime Text > Preferences > Settings User```, and change/add a new line with the color scheme ```"color_scheme": "Packages/User/resesif.tmTheme"``` and finally restart your Sublime Text.
+To activate the color scheme, go to ```Sublime Text > Preferences > Settings User```, and change/add a new line with the color scheme ```"color_scheme": "Packages/Resesif Color Scheme/resesif.tmTheme",``` and finally restart your Sublime Text. Or go to ```Sublime Text > Preferences > Color Scheme > Resesif Color Scheme > resesif```.
 
 ## Demo
 
