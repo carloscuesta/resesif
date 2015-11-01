@@ -8,7 +8,7 @@ that can be accessed from Sublime Text > Preferences > Settings - User.
 Add/change the "color_scheme" line with:
 
 {
-    "color_scheme": "Packages/User/resesif-extended.tmTheme"
+    "color_scheme": "Packages/User/resesif.tmTheme"
 }
 
 Save the file, restart your Sublime Text and you're ready to go!.
