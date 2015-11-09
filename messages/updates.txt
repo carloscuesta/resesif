@@ -1,8 +1,8 @@
 Resesif 1.0.3
 
-Check the RELEASE DETAILS: <https://github.com/carloscuesta/resesif/releases/tag/v1.0.3>
+Check the RELEASE DETAILS: <https://github.com/carloscuesta/resesif/releases/tag/v1.0.5>
 
-Resesif has been updated to 1.0.3 to support bracket highlighter adding
+Resesif has been updated to 1.0.5 to support bracket highlighter adding
 colors to the brackets!.
 
 Don't forget to give a ⭐ to resesif on github!
