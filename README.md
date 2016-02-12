@@ -1,6 +1,8 @@
 # Resesif
 
-![resesif](https://cloud.githubusercontent.com/assets/7629661/10800796/303998bc-7db4-11e5-9048-2a1965a27c3f.png)
+<p align="center">
+    <img src="https://cloud.githubusercontent.com/assets/7629661/13010887/70508a66-d1a4-11e5-940d-6a62ba8001b5.png" alt="Resesif Carlos cuesta"/>
+</p>
 
 >**Resesif** is a **dark** color scheme based on the [Textmate Resesif](http://www.textmatetheme.com/resesif) for [Sublime Text](http://www.sublimetext.com) that supports a lot of different languages with a nice color scheme look. 
 
