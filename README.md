@@ -46,7 +46,7 @@ To see the color scheme with different languages or with your custom code you ca
 
 ![resesiftmtheme](https://cloud.githubusercontent.com/assets/7629661/10793255/5d63da6a-7d90-11e5-8ed8-56bdd9e9c8b2.png)
 
-### JavaScript / Coffescript
+### JavaScript / CoffeeScript
 
 ![javascript](https://cloud.githubusercontent.com/assets/7629661/10829353/b35334ae-7e79-11e5-91bb-37b3b1b7454f.png)
 
